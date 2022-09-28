@@ -19,7 +19,7 @@ public class MainClass {
 		line.offer(a);
 		if(line.poll()==a)
 			System.out.println("yes");
-		
+		//added from web
 		
 		
 	}

@@ -15,7 +15,7 @@ public class MainClass {
 		line.offer(1);
 		line.offer(2);
 		Integer a= line.poll();
-		
+		//sample
 		line.offer(a);
 		if(line.poll()==a)
 			System.out.println("yes");
